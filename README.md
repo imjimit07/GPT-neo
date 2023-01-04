@@ -19,4 +19,6 @@ jupyter notebook
 ```
 
 4. Open the file in jupyter notebook.
-5. Change the value of "prompt" in
+5. Change the value of "prompt" in the third line to whatever you result you want.
+6. Change the value of "max_length" in the fifth line to any value you want. It tells how many characters are going to be there in the result.
+7. [OPTIONAL] It you want to save the output as a text file, then remove the "#" in the start of the last 2 lines.
